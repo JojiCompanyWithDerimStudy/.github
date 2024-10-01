@@ -6,6 +6,10 @@
 - github을 통해 학습한 내용을 업로드해가며, github 및 git 사용법에 익숙해집니다.
 
 
+|main repositories|link|
+|--|--|
+|STUDY ZONE| [링크](https://github.com/JojiCompanyWithDerimStudy/study-zone) |
+
 <!--
 
 **Here are some ideas to get you started:**
